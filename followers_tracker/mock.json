@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Trevis",
+        "gender": "Male"
+    },
+    {
+        "id": "2",
+        "name": "Jane",
+        "gender": "Female"
+    },
+    {
+        "id": "3",
+        "name": "Gena",
+        "gender": "Chuvashin"
+    },
+    {
+        "id": "4",
+        "name": "Vovan",
+        "gender": "Male"
+    },
+    {
+        "id": "5",
+        "name": "Nikolay",
+        "gender": "Male"
+    },
+    {
+        "id": "6",
+        "name": "Zlata",
+        "gender": "Female"
+    },
+    {
+        "id": "7",
+        "name": "Vika",
+        "gender": "Femele"
+    },
+    {
+        "id": "8",
+        "name": "Greta",
+        "gender": "Female"
+    }
+    
+]
+
